@@ -22,6 +22,4 @@ ns sample.tcl
 nam sample.nam
 ```
 
-## Notes
-
-Use Issues or Pull Requests for suggestions or fixes.
+## Link  : 
