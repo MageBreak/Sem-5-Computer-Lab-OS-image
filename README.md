@@ -1,6 +1,6 @@
 # CN/OS Lab Environment
 
-A simple repository providing a **pre-configured Ubuntu environment** for Computer Networks & Operating Systems labs. This avoids the hassle of installing older Ubuntu versions and manually configuring **ns-2, nam, and xgraph**.
+A simple repository providing a **pre-configured Ubuntu environment** for Computer Networks labs. This avoids the hassle of installing older Ubuntu versions and manually configuring **ns-2 and nam**.
 
 ## What This Repo Contains
 
@@ -20,13 +20,6 @@ A simple repository providing a **pre-configured Ubuntu environment** for Comput
 ```bash
 ns sample.tcl
 nam sample.nam
-```
-
-## Structure
-
-```
-vm-image/   # VM files or download links
-README.md
 ```
 
 ## Notes
