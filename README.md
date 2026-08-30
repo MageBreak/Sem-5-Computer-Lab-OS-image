@@ -1,26 +1,25 @@
-# CN/OS Lab Environment
+CN/OS Lab Environment
 
-A simple repository providing a **pre-configured Ubuntu environment** for Computer Networks labs. This avoids the hassle of installing older Ubuntu versions and manually configuring **ns-2 and nam**.
+⚠️ Archived / No Longer Functional
 
-## What This Repo Contains
+This repository is no longer maintained.
 
-* Preconfigured VM with:
+The pre-configured Ubuntu VM containing NS-2 and NAM was previously hosted on Google Drive. The VM has been removed because it was taking up too much storage space on my Google Drive.
 
-  * Ubuntu (older stable version)
-  * NS-2
-  * NAM
-* Sample CN lab program
+Therefore, the VM download and setup instructions are no longer functional.
 
-## How to Use
+What This Repo Originally Contained
 
-1. Download the VM from the **Releases** section.
-2. Import it into VMware/VirtualBox.
-3. Open the terminal and run:
+A pre-configured Ubuntu environment for Computer Networks labs, including:
 
-```bash
+Ubuntu (older stable version)
+NS-2
+NAM
+Sample CN lab programs
+
+The original environment allowed users to run:
+
 ns sample.tcl
 nam sample.nam
-```
 
-## Link  : 
-https://drive.google.com/drive/folders/1KI5zGTLIl1oqAkKF7LYhHmzYae2wsPZy?usp=sharing
+The repository is preserved for reference and archival purposes.
